@@ -25,6 +25,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    padding: 1rem;
 }
 
 .container{
@@ -50,6 +51,7 @@ main.container {
 
 .nav a {
     text-decoration: none;
+    font-size: larger;
 }
 
 .card {
