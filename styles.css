@@ -34,10 +34,11 @@ body {
 }
 
 main.container {
-    width: 92%;
+    width: 100%;
     padding: 1rem;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: 10px;
 }
 
